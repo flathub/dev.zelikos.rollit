@@ -35,8 +35,8 @@
                 {
                     "type" : "git",
                     "url" : "https://gitlab.com/zelikos/rollit.git",
-                    "tag" : "3.1.0",
-                    "commit" : "b18f65e24466aca3958faad5c7d2946afa28eea1"
+                    "tag" : "3.1.1",
+                    "commit" : "1d7cd558f9cde5ded6b3b58e740673ebd1a78d77"
                 },
                 "cargo-sources.json",
                 {
