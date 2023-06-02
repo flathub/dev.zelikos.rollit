@@ -36,7 +36,7 @@
                     "type" : "git",
                     "url" : "https://gitlab.com/zelikos/rollit.git",
                     "tag" : "3.2.0",
-                    "commit" : "93df2b930747567de6387c5f3fa27a369dd553ec"
+                    "commit" : "d22f828cc39e484551cae61c45d47f925c58d940"
                 },
                 "generated-sources.json",
                 {
