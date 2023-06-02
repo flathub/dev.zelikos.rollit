@@ -38,7 +38,7 @@
                     "tag" : "3.2.0",
                     "commit" : "93df2b930747567de6387c5f3fa27a369dd553ec"
                 },
-                "cargo-sources.json",
+                "generated-sources.json",
                 {
                     "type" : "shell",
                     "commands" : [
