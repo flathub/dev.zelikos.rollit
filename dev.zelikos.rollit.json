@@ -1,7 +1,7 @@
 {
     "id" : "dev.zelikos.rollit",
     "runtime" : "org.gnome.Platform",
-    "runtime-version" : "44",
+    "runtime-version" : "45",
     "sdk" : "org.gnome.Sdk",
     "sdk-extensions" : [
         "org.freedesktop.Sdk.Extension.rust-stable"
@@ -35,8 +35,8 @@
                 {
                     "type" : "git",
                     "url" : "https://gitlab.com/zelikos/rollit.git",
-                    "tag" : "3.2.0",
-                    "commit" : "d22f828cc39e484551cae61c45d47f925c58d940"
+                    "tag" : "3.3.0",
+                    "commit" : "839ea3ec4751606363d7189cfc879a4bd0b9bc96"
                 },
                 "generated-sources.json",
                 {
