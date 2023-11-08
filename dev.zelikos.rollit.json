@@ -29,14 +29,26 @@
     ],
     "modules" : [
         {
+            "name": "blueprint-compiler",
+            "buildsystem": "meson",
+            "cleanup": ["*"],
+            "sources": [
+                {
+                    "type": "git",
+                    "url": "https://gitlab.gnome.org/jwestman/blueprint-compiler",
+                    "tag": "v0.10.0"
+                }
+            ]
+        },
+        {
             "name" : "rollit",
             "buildsystem" : "meson",
             "sources" : [
                 {
                     "type" : "git",
                     "url" : "https://gitlab.com/zelikos/rollit.git",
-                    "tag" : "3.3.0",
-                    "commit" : "839ea3ec4751606363d7189cfc879a4bd0b9bc96"
+                    "tag" : "3.4.0",
+                    "commit" : "c09c7fa56c50b035fdc14f8f1b954f216ae3a8a3"
                 },
                 "generated-sources.json",
                 {
