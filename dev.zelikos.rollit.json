@@ -1,7 +1,7 @@
 {
   "id": "dev.zelikos.rollit",
   "runtime": "org.gnome.Platform",
-  "runtime-version": "47",
+  "runtime-version": "48",
   "sdk": "org.gnome.Sdk",
   "sdk-extensions": ["org.freedesktop.Sdk.Extension.rust-stable"],
   "command": "rollit",
@@ -29,7 +29,7 @@
         {
           "type": "git",
           "url": "https://gitlab.gnome.org/jwestman/blueprint-compiler",
-          "tag": "v0.14.0"
+          "tag": "v0.16.0"
         }
       ]
     },
@@ -40,8 +40,8 @@
         {
           "type": "git",
           "url": "https://github.com/zelikos/rannum.git",
-          "tag": "4.0.1",
-          "commit": "71d1052b140cea1ad241eb06c16b0a9f716e1bef"
+          "tag": "4.0.2",
+          "commit": "4a5bba38b01093ff95b2cb3fa379e0ee218c2b88"
         },
         "generated-sources.json",
         {
