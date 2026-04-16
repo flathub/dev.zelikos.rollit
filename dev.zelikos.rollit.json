@@ -22,8 +22,8 @@
         {
           "type": "git",
           "url": "https://github.com/zelikos/rannum.git",
-          "tag": "4.0.2",
-          "commit": "4a5bba38b01093ff95b2cb3fa379e0ee218c2b88"
+          "tag": "4.0.3",
+          "commit": "5911a0722637eb0bdbf179f31c1bdbeb5f45d686"
         },
         "generated-sources.json",
         {
